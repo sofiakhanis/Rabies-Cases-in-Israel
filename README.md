@@ -6,6 +6,7 @@ This project analyzes **rabies cases, control measures, and vaccination availabi
 Rabies is a fatal **zoonotic disease** with severe public health implications, especially in countries where it remains endemic.  
 By combining **statistical analysis, data visualization, and interactive dashboards**, this project aims to uncover patterns, track trends, and evaluate prevention efforts.
 
+Link to Tableau project: https://public.tableau.com/app/profile/sofia.khanis/viz/Rabiesproject/RABIESINANIMALS
 ---
 
 ## Objectives  
